@@ -14,7 +14,7 @@
 // Date: 2007-04-12
 // ---------------------------------------------------
 // Modified by Aneesh 
-// www.bloggerplugins.org
+// https://www.netaawy.com/
 // تعريب مدونة كن داعيا للخير 
 // https://www.netaawy.com/
 // Date : 02-08-2011
